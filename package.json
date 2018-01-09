@@ -1,0 +1,22 @@
+{
+  "name": "hs",
+  "version": "1.0.0",
+  "description": "hs info",
+  "main": "http.js",
+  "scripts": {
+    "test": "http.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/robinn00/Nodejs.git"
+  },
+  "keywords": [
+    "hs"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/robinn00/Nodejs/issues"
+  },
+  "homepage": "https://github.com/robinn00/Nodejs#readme"
+}
