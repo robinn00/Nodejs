@@ -1,3 +1,5 @@
-/**
- * Created by admin on 2018/1/19.
- */
+var webpage = require("webpage");
+var p = webpage.create();
+p.open("https://www.baidu.com/",function (s) {
+    console.log(s)
+})
